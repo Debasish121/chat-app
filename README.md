@@ -1,7 +1,7 @@
 # Chat App 
 An easy-to-use two-user chat application created using React, Firebase, and styled with Chakra UI. This application enables two users to exchange messages in real-time.
 
-[Live Link](https://chat-app-omega-green.vercel.app/)
+Website Live : [Link](https://chat-app-omega-green.vercel.app/)
 
 ## Tech Stack
 
