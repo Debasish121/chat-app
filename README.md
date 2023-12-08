@@ -1,7 +1,4 @@
-# Two User Chat App
-
-## Description
-
+# Chat App
 An easy-to-use two-user chat application created using React, Firebase, and styled with Chakra UI. This application enables two users to exchange messages in real-time.
 
 ## Tech Stack
@@ -22,16 +19,17 @@ An easy-to-use two-user chat application created using React, Firebase, and styl
 1. Clone the repository:
 
    ```bash
-   git clone <repository_link>
+   git clone [<repository_link>](https://github.com/Debasish121/chat-app.git)
 
 2. Navigate to the project directory:
 
-  ``
-    cd two-user-chat-app
-  ``
+  ```bash
+  cd two-user-chat-app
 
 3. Install dependencies:
-   ``npm install``
+
+   ```bash
+   npm install
 
 4. Set up Firebase:
 
@@ -40,7 +38,8 @@ ii. Obtain your Firebase configuration keys for the project
 iii. Replace the Firebase configuration in the project's Firebase initialization file (firebase.js or similar)
 
 5. Start the application:
-``npm start``
+   ```bash
+   npm start
 
 
 ## Usage
