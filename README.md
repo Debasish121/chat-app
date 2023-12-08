@@ -41,7 +41,6 @@ iii. Replace the Firebase configuration in the project's Firebase initialization
    ```bash
    npm start
 
-
 ## Usage
 1. Sign in using your Google account.
 2. Enter the chat room and start sending messages.
