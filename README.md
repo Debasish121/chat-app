@@ -19,7 +19,7 @@ An easy-to-use two-user chat application created using React, Firebase, and styl
 1. Clone the repository:
 
    ```bash
-   git clone [<repository_link>](https://github.com/Debasish121/chat-app.git)
+   git clone https://github.com/Debasish121/chat-app.git
 
 2. Navigate to the project directory:
 
