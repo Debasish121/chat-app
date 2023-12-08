@@ -33,11 +33,12 @@ An easy-to-use two-user chat application created using React, Firebase, and styl
 
 4. Set up Firebase:
 
-i. Create a Firebase project at Firebase Console
-ii. Obtain your Firebase configuration keys for the project
-iii. Replace the Firebase configuration in the project's Firebase initialization file (firebase.js or similar)
+   ```bash
+   i. Create a Firebase project at Firebase Console
+   ii. Obtain your Firebase configuration keys for the project
+   iii. Replace the Firebase configuration in the project's Firebase initialization file (firebase.js or similar)
 
-5. Start the application:
+6. Start the application:
    ```bash
    npm start
 
