@@ -23,8 +23,8 @@ An easy-to-use two-user chat application created using React, Firebase, and styl
 
 2. Navigate to the project directory:
 
-  ```bash
-  cd two-user-chat-app
+   ```bash
+     cd two-user-chat-app
 
 3. Install dependencies:
 
